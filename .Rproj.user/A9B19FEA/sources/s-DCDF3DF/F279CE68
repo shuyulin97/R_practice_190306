@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551862049283.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2967934074",
+    "id" : "F279CE68",
+    "lastKnownWriteTime" : 1551862183,
+    "last_content_update" : 1551862183927,
+    "path" : "C:/Users/user/Desktop/R/R_practice_190306/20190306.Rmd",
+    "project_path" : "20190306.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,17",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
